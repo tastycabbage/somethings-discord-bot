@@ -1,0 +1,372 @@
+Accordion, for playing music, uncommon, 200
+Adhesive tape, for fastening materials, common, 3
+Aerogrill, for cooking, uncommon, 70
+Aerosol, for liquid spraying, uncommon, 15
+Air fryer, for cooking food with hot air, uncommon, 80
+Air mattress, for sleeping outdoors, common, 30
+Air purifier, for filtering indoor air, uncommon, 100
+Alarm clock, for waking up, common, 10
+Apron, for cooking or crafting, common, 15
+Aquarium, for keeping fish, uncommon, 80
+Art easel, for painting or drawing, uncommon, 50
+Artificial plant, for decoration, common, 20
+Ashtray, for cigarette ash, common, 5
+Automotive air freshener, for refreshing car interiors, common, 5
+Axe, for chopping wood, common, 25
+Back scratcher, for scratching hard-to-reach areas, common, 3
+Backpack, for carrying things, common, 15
+Ball pump, for pumping, common, 5
+Balloon, for decoration, uncommon, 25
+Ballpoint pen, for writing, common, 2
+Bandage, for dressing wounds, common, 3
+Barbecue grill, for outdoor cooking, common, 150
+Barbecue tongs, for grilling, common, 15
+Barbell set, for weightlifting, common, 80
+Barometer, for measuring atmospheric pressure, uncommon, 50
+Basketball, for playing sports, common, 20
+Bathrobe, for home wear, common, 12
+Battery, for energy storage, uncommon, 20
+Bicycle, vehicle, uncommon, 150
+Bicycle helmet, for head protection while cycling, common, 20
+Bicycle pump, for inflating tires, uncommon, 15
+Binoculars, for distant observation, uncommon, 70
+Bird feeder, for attracting birds, common, 15
+Birdhouse, for attracting birds, uncommon, 15
+Blinds, for adjusting the light, uncommon, 40
+Bluetooth speaker, for playing music wirelessly, common, 50
+Bottle brush, for washing, common, 4
+Bottle opener, bottle opener, common, 2
+Bucket, for carrying liquids, common, 8
+Calculator, for calculations, common, 15
+Camping stove, for outdoor cooking, common, 60
+Camping tent, for outdoor shelter, common, 100
+Candle holder, for holding candles, common, 10
+Canteen, for carrying water, common, 10
+Canvas, for drawing, common, 10
+Car washer, for cleaning car glass, common, 10
+Carpet, floor covering, common, 30
+Cell phone, for communication, uncommon, 150
+Cement, for construction work, uncommon, 50
+Chair, seating furniture, common, 40
+Charger, for electronic devices, uncommon, 25
+Circular saw, for sawing wood, uncommon, 60
+Clamp, for fixing objects, common, 6
+Cleaning brush, common, 4
+Clock, for measuring time, common, 20
+Clothespin, for hanging laundry, common, 1
+Coasters, for protecting surfaces from drink stains, common, 5
+Coffee grinder, for grinding coffee beans, common, 30
+Coffee machine filter, for water purification, uncommon, 8
+Coffee maker, for brewing coffee, common, 40
+Colored paper, for creativity, common, 3
+Compass, for building circles, uncommon, 25
+Container, for storing liquids, common, 6
+Corkscrew, for opening bottles, common, 5
+Croquet game, for outdoor activities, uncommon, 40
+DVD disc, for recording and storing data, uncommon, 10
+Daily planner, record book, common, 8
+Dartboard, for playing darts, common, 30
+Darts, for playing darts, common, 20
+Desk organizer, for keeping desk items tidy, common, 20
+Dish brush, for washing dishes, common, 4
+Dish drainer, for drying dishes, common, 10
+Dispenser, for liquid products, uncommon, 15
+Diving mask, for underwater exploration, common, 30
+Door, to enter the room, common, 50
+Door mat, for wiping shoes, common, 10
+Doorbell, for announcing visitors, common, 10
+Drill, for making holes, common, 40
+Drone, for aerial photography, uncommon, 200
+Drum kit, for playing percussion, uncommon, 300
+Drumsticks, for playing drums, common, 8
+Dumbbell, for strength training, common, 30
+Dumbbell set, for weightlifting, common, 80
+Dust cover, for dust removal, common, 3
+Ear cotton buds, for ear hygiene, common, 2
+Earcyclope, for noise protection, uncommon, 50
+Earphones, for listening to music, common, 30
+Earplugs, for reducing noise, common, 3
+Easel, for painting or displaying art, common, 30
+Elastic band, for hair or paper, common, 1
+Electric kettle, for boiling water, common, 25
+Electric toothbrush, for oral hygiene, common, 20
+Electric toothbrush charger, for charging electric toothbrushes, common, 10
+Envelope, for mailing letters, common, 5
+Eraser, for erasing pencil entries, common, 1
+Ethernet cable, for wired internet connection, common, 10
+Euro coin, currency, common, 1
+Extension cord, for extending electrical reach, common, 15
+Extension ladder, for reaching high places, uncommon, 80
+Fan, for cooling air, common, 20
+Felt-tip pen, for drawing, common, 2
+Fire extinguisher, for putting out fires, uncommon, 50
+Fire pit, for outdoor heating and ambiance, uncommon, 200
+Fishing net, for catching fish, common, 15
+Fishing rod, for fishing, uncommon, 25
+Fishing tackle bag, for storing fishing gear, common, 25
+Fishing tackle box, for storing fishing gear, common, 30
+Flash drive, for storing digital files, common, 15
+Flashlight, for lighting in the dark, uncommon, 18
+Floppy disk, for data storage, uncommon, 5
+Flower, plant for decoration, common, 6
+Food container, food storage, common, 15
+Fountain pen, for writing, common, 25
+Frying pan, for cooking, common, 20
+Garden gnome, for decoration, common, 20
+Garden hammock, for relaxing outdoors, common, 50
+Garden hose, for watering plants, common, 25
+Garden hose reel, for organized hose storage, uncommon, 50
+Garden shears, for cutting plants, common, 15
+Garden shovel, for digging, common, 20
+Garden trowel, for planting or digging, common, 8
+Garland, for decoration, uncommon, 25
+Glasses, for vision correction, uncommon, 100
+Glasses for virtual reality, for immersion in the virtual world, uncommon, 100
+Gloves, for hand protection, common, 7
+Goggles, for eye protection, common, 15
+Grater, for shredding food, common, 8
+Grill pan, for frying in a frying pan, common, 45
+Guitar, musical instrument, common, 100
+Guitar pick, for playing guitar, common, 1
+Hair clip, styling, common, 2
+Hair curler, for styling hair, common, 20
+Hair dryer, for drying hair, common, 20
+Hair straightener, for styling hair, common, 25
+Hairbrush, for grooming hair, common, 5
+Hairdryer, for drying hair, common, 25
+Hammer, impact tool, uncommon, 12
+Hammock, for relaxing outdoors, uncommon, 50
+Hammock chair, for relaxing, uncommon, 40
+Hanger, for clothes, common, 5
+Hat, headdress, common, 10
+Headlamp, for hands-free lighting, common, 15
+Headphones, for listening to audio, common, 50
+Hot water bottle, hand warmer, uncommon, 10
+Hula hoop, for exercise or play, common, 8
+Humidifier, to maintain humidity, uncommon, 60
+Ice bucket, for holding ice, common, 15
+Ice cream maker, for making homemade ice cream, uncommon, 60
+Ice cream scoop, for serving ice cream, common, 5
+Ice cube tray, for making ice cubes, common, 5
+Ice pack, for cooling injuries, common, 5
+Incense burner, for burning incense, common, 15
+Inflatable kayak, for water sports, uncommon, 150
+Ink pen, for writing, common, 3
+Insect repellent, for keeping bugs away, common, 5
+Instant pot, for multi-functional cooking, uncommon, 70
+Iron, for ironing clothes, uncommon, 50
+Ironing board, ironing board, uncommon, 30
+Jacket, for outerwear, common, 30
+Jewelry box, for storing jewelry, common, 12
+Jigsaw puzzle, for entertainment, common, 10
+Jigsaw puzzle, for entertainment, common, 10
+Jug, for holding liquids, common, 10
+Juggling balls, for juggling, common, 12
+Juice extractor, for making fresh juice, common, 40
+Juicer, for extracting juice from fruits and vegetables, common, 40
+Jump rope, for jumping, common, 3
+Kaleidoscope, for viewing colorful patterns, uncommon, 10
+Kettle, for boiling water, common, 15
+Kettlebell, for strength training, common, 30
+Key organizer, for organizing keys, common, 8
+Keyboard, for data entry, common, 20
+Keychain, for holding keys, common, 5
+Kite, for flying in the wind, common, 10
+Kiteboarding kite, for kiteboarding, uncommon, 300
+Knee brace, for knee support, common, 20
+Kneeling pad, for gardening or chores, common, 5
+Knife set, for cutting food, common, 50
+Knitting needles, for needlework, common, 4
+Lamp, for lighting, common, 15
+Laptop, portable computer, uncommon, 800
+Laptop bag, for carrying laptops, common, 25
+Laptop sleeve, for protecting laptops, common, 15
+Laptop stand, for ergonomic use, uncommon, 30
+Lava lamp, for decoration and mood lighting, uncommon, 30
+Lawn mower, for cutting grass, uncommon, 200
+Lighter, for lighting a fire, common, 4
+Luggage scale, for weighing luggage, common, 10
+Luggage tag, for identifying luggage, common, 2
+Lunchbox, for carrying meals, common, 15
+Magazine, print edition, common, 4
+Magnet, for attracting metal objects, uncommon, 18
+Magnetic key holder, key storage, common, 12
+Magnifier, to enlarge the image, uncommon, 20
+Magnifying glass, for magnification, common, 10
+Mailbox, for receiving mail, common, 20
+Manicure lamp, for drying nail polish, common, 35
+Marker, for highlighting text, common, 2
+Measuring tape, for measurements, uncommon, 10
+Microfiber cloth, for cleaning, common, 3
+Microphone, for recording audio, common, 50
+Microscope, for magnifying small objects, uncommon, 100
+Microwave oven, for heating food quickly, common, 80
+Milk, food, common, 2
+Mirror, to reflect the image, common, 15
+Mirror cabinet, for storage and reflection, uncommon, 60
+Mop, floor cleaner, common, 7
+Mosquito repellent, for repelling mosquitoes, common, 8
+Nail brush, for cleaning nails, common, 2
+Nail clippers, for trimming nails, common, 3
+Nail file, for shaping nails, common, 3
+Nail polish, for painting nails, common, 5
+Napkin holder, for holding napkins, common, 8
+Needles, for sewing, common, 2
+Newspaper, print edition of news, common, 3
+Night vision goggles, for night vision, uncommon, 200
+Nightlight, for dim illumination at night, common, 5
+Nightstand, for bedside storage, common, 50
+Notebook, for taking notes, common, 5
+Notepad, notebook, common, 5
+Ocarina, for making music, uncommon, 40
+Oil diffuser, for dispersing essential oils, common, 20
+Oil lamp, for lighting in rustic settings, uncommon, 20
+Outdoor grill, for cooking outdoors, common, 80
+Outdoor grill cover, for protecting outdoor grills, common, 20
+Outdoor umbrella, for shade or rain protection, common, 40
+Outlet cover, for child safety, common, 2
+Oven mitts, for handling hot items, common, 8
+Paddle, for propelling a boat, common, 20
+Patch, for first aid, common, 2
+Pedometer, for counting steps, common, 8
+Pen, for writing, common, 3
+Pencil case, for storing pencils and pens, common, 8
+Pencil sharpener, for sharpening pencils, common, 2
+Phone, for communication, uncommon, 200
+Phone case, for protection, common, 5
+Photo frame, for decoration, common, 8
+Pillowcase, for covering pillows, common, 8
+Plaid, for shelter, common, 25
+Plate, for serving food, common, 5
+Plunger, for unclogging drains, common, 10
+Power supply unit, for power supply, uncommon, 35
+Pressure cooker, for fast cooking under pressure, common, 60
+Printer cartridge, for printing, uncommon, 30
+Probe, for temperature measurement, uncommon, 8
+Protein shaker bottle, for mixing protein shakes, common, 10
+Pump, for pumping air and liquid media, uncommon, 15
+Puzzle box, for solving puzzles, uncommon, 25
+Quartz crystal, for spiritual purposes or decoration, uncommon, 20
+Quill pen, for writing in ink, uncommon, 10
+Quill pen, for writing in ink, uncommon, 10
+Quilt, for warmth, common, 30
+Quilt cover, for covering a quilt, common, 20
+Quilt rack, for displaying quilts, uncommon, 40
+Quilted blanket, for warmth, common, 25
+Quilted mattress pad, for added comfort, common, 30
+Quilted pillow, for comfortable sleep, common, 15
+Quilted throw blanket, for warmth, common, 20
+Quiver, for holding arrows, uncommon, 40
+Razor, for shaving, common, 5
+Refrigerator, food storage, uncommon, 500
+Refrigerator for car, for storing food on the road, common, 70
+Remote car starter, for starting a car from a distance, uncommon, 100
+Remote control, for operating devices from a distance, common, 10
+Resistance bands, for strength training, common, 15
+Rice cooker, for cooking rice, common, 40
+Roaster, for frying meat, common, 25
+Robot vacuum cleaner, for automatic cleaning, uncommon, 150
+Rocking chair, for relaxation, common, 80
+Rolling pin, for flattening dough, common, 7
+Rope, for tying or climbing, common, 5
+Ruler, for measuring, common, 3
+Scissors, for cutting materials, common, 7
+Screwdriver, for screwing or unscrewing, common, 4
+Screwdriver set, for tightening screws, common, 15
+Sewing kit, for sewing repairs, common, 10
+Sewing machine, for sewing fabric, common, 150
+Shovel, for digging, common, 8
+Shower curtain, for privacy and water containment, common, 20
+Skipping rope, for exercise or play, common, 5
+Soap, for hygiene, common, 3
+Spatula, for flipping food, common, 5
+Sponge, for washing dishes, common, 2
+Stainless steel straw, for drinking, common, 2
+Suitcase, for travel, common, 25
+Sun lounger, for relaxing on the beach, common, 50
+Sundial, for telling time using the sun, uncommon, 100
+Sunglasses, for eye protection, uncommon, 30
+Sushi making kit, for making sushi at home, uncommon, 35
+Syringe, for injection or extraction of liquids, uncommon, 10
+Table lamp, for lighting the work area, uncommon, 40
+Table tennis racket, ping pong, common, 25
+Tablecloth, for covering the table, common, 10
+Tambourine, for percussion, common, 10
+Tape measure, for measurements, common, 5
+Tea infuser, for brewing loose tea, common, 5
+Tea kettle, for boiling water for tea, common, 15
+Tea set, for making and serving tea, common, 60
+Tea strainer, for steeping loose tea leaves, common, 5
+Teapot, for brewing tea, common, 15
+Telescope, for stargazing, uncommon, 150
+Tennis racket, for playing tennis, common, 50
+Tent stakes, for securing tents, common, 5
+Thermometer, for measuring temperature, common, 5
+Thermos, to keep the temperature of the liquid, uncommon, 25
+Thermos for food, for storing dishes, uncommon, 40
+Tin, food storage, common, 8
+Toilet brush, common, 3
+Tool box, for storing and convenient transportation of tools, common, 40
+Toothbrush, for oral hygiene, common, 3
+Towel rack, bathroom, uncommon, 10
+Toy, for entertainment, common, 10
+Trap, for catching animals, uncommon, 30
+USB flash drive, for data storage, uncommon, 15
+Ukulele, musical instrument, uncommon, 50
+Ukulele case, for protecting the instrument, uncommon, 30
+Ultrasonic humidifier, to maintain optimal indoor humidity, uncommon, 80
+Umbrella, for protection from rain, uncommon, 20
+Umbrella hat, for hands-free rain protection, uncommon, 15
+Umbrella holder, for storing umbrellas, common, 8
+Umbrella stand, for storing umbrellas, uncommon, 20
+Umbrellas for the beach, sun protection, common, 20
+Underwater camera, for underwater photography, uncommon, 250
+Vacuum cleaner, for dust removal, uncommon, 100
+Vacuum cleaner attachment, for cleaning upholstery, common, 20
+Vacuum sealer, for sealing food for storage, uncommon, 50
+Vanity mirror, for makeup and grooming, common, 40
+Vase, for holding flowers, common, 15
+Vest, to wear, common, 10
+Vibrator, for massage or pleasure, uncommon, 50
+Vintage typewriter, for typing, uncommon, 200
+Vise, for holding objects firmly, uncommon, 25
+Vitamin supplements, for health, common, 10
+Volleyball, for playing sports, common, 15
+Volleyball net, for playing volleyball, common, 40
+Waffle iron, for making waffles, uncommon, 40
+Waffle maker, for making waffles, common, 25
+Water bottle, for hydration, common, 5
+Water filter, for cleaning, uncommon, 20
+Water filter pitcher, for purifying drinking water, common, 20
+Watering can, for watering plants, common, 5
+Watering wand, for watering plants, uncommon, 25
+Waterproof backpack, for outdoor activities, common, 50
+Waterproof phone case, for protecting phones from water damage, common, 20
+Whisk, for mixing ingredients, common, 8
+Window cleaner, glass cleaner, uncommon, 12
+Wristwatch, for telling time, common, 30
+X-Acto knife, for precise cutting, common, 8
+X-Acto knife set, for precise cutting, common, 15
+X-ray film, for medical imaging, uncommon, 100
+X-ray machine, for medical imaging, uncommon, 500
+XLR microphone cable, for professional audio recording, common, 20
+Xylophone, musical instrument, uncommon, 80
+Xylophone mallets, for playing xylophone, common, 5
+Yarn, for knitting or crocheting, common, 5
+Yo-yo, for skillful tricks, common, 5
+Yoga ball, for exercise and stretching, common, 20
+Yoga block, for support during yoga poses, common, 10
+Yoga mat, for exercise, common, 20
+Yoga mat bag, for carrying yoga mats, common, 15
+Yoga strap, for improving flexibility, common, 6
+Yoga towel, for yoga practice, common, 15
+Yoga wheel, for yoga practice, common, 25
+Yogurt maker, for fermenting yogurt, uncommon, 40
+Zafu cushion, for meditation, uncommon, 20
+Zester, for grating citrus zest, common, 6
+Zinc supplement, for boosting immune system, common, 10
+Zipline kit, for ziplining adventures, uncommon, 100
+Ziplock bag, for storage, common, 3
+Zipper, for fastening clothes, common, 1
+Zipper pouch, for organizing small items, common, 5
+Zipper puller, for fixing stuck zippers, common, 2

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "lowdb": "^7.0.1"
+  },
+  "name": "somethings-discord-bot",
+  "version": "1.0.0",
+  "description": "bot with very interesting mechanics",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "pelmeni123",
+  "license": "UNLICENSED"
+}
