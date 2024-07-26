@@ -1,8 +1,6 @@
-import { getCommand } from "../util/commandManager.js";
+import { getCommand } from "../managers/commandManager.js";
 
 async function handleCommand(interaction) {
-    if(!interaction.isChatInputCommand()) return;
-
     let command = await getCommand(interaction.commandName);
     if(!command) return;
 
